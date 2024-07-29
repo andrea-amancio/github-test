@@ -1,4 +1,5 @@
 // *******************************************************
+// Ceci est un test de modification local
 // Nom ......... : ordipapier.c
 // Rôle ........ : Programme émulant le fonctionnement d'un ordinateur qui charge et exécute un programme
 // Auteur ...... : Andréa Amancio
